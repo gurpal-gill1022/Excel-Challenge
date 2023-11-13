@@ -13,7 +13,10 @@ A thorough analysis was conducted on the raw data using Excel, followed by a Wri
 # Files
 1. Sample Images
 2. Crowdfunding Excel 
-3. Written Report Doc
+3. Written Report Document
+
+# Dependencies/Programs
+1. Microsoft Excel
 
 
 
